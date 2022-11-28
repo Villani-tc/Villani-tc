@@ -20,13 +20,4 @@
  
 ![Snake animation](https://github.com/Villani-tc/Villani-tc/blob/output/github-contribution-grid-snake.svg)
   
-  
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  
-  <a align="center" href="https://github.com/Villani-tc/EasyEncoder" title="EasyEncoder"><img align="left" width= "500" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Villani-tc&repo=EasyEncoder&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="center" href="https://github.com/Villani-tc/WebScrap-Produtos" title="WebScrap"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Villani-tc&repo=WebScrap-Produtos&theme=react&border_color=61dafb&border_radius=10"></a>
-
-
-</div>
+ 
