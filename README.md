@@ -4,16 +4,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villani-tc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Python" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  
+ ## 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,javascript,css,html,sqlserv" /><br>  
+  </a>
+</p>
 
-##
-
-<a href="https://www.linkedin.com/in/tiago-villani-de-carvalho-5b544a1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/Villani#7177" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+<div align = "center">
+  
+  <a   href="https://www.linkedin.com/in/tiago-villani-de-carvalho-5b544a1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a   href="https://discord.gg/Villani#7177" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-  badge&logo=discord&logoColor=white" target="_blank" height="28" ></a> 
+ </div>
+ 
 ![Snake animation](https://github.com/Villani-tc/Villani-tc/blob/output/github-contribution-grid-snake.svg)
+  
+  
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  
+  <a align="center" href="https://github.com/Villani-tc/EasyEncoder" title="EasyEncoder"><img align="left" width= "500" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Villani-tc&repo=EasyEncoder&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/Villani-tc/WebScrap-Produtos" title="WebScrap"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Villani-tc&repo=WebScrap-Produtos&theme=react&border_color=61dafb&border_radius=10"></a>
+
+
+</div>
