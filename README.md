@@ -1,9 +1,16 @@
-<div align="center">
-  <a href="https://github.com/Villani-tc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Villani-tc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villani-tc&layout=compact&langs_count=7&theme=dracula"/>
+<div align = "center">
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Villani-tc&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Villani-tc&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Villani-tc&show_icons=true" />
+  </picture>
 </div>
-
   
  ## 
 <p align="center">
